@@ -9,20 +9,20 @@ html {color: #35383c;overflow: hidden;overflow-y: auto}
 .navbar-fixed { height: 68px; }
 nav { color: #fff; width: 100%; height: 68px; line-height: 68px; background-color: #fff;  -webkit-transition: 0.4s; -moz-transition: 0.4s; -o-transition: 0.4s; -ms-transition: 0.4s; transition: 0.4s; box-shadow: 0 0px 0px 0 rgba(0,0,0,0.16),0 0px 0px 0 rgba(0,0,0,0.12);}
 nav .nav-wrapper {width: 100%; background-color: rgba(255,255,255,0);-webkit-transition: 0.4s; -moz-transition: 0.4s; -o-transition: 0.4s; -ms-transition: 0.4s; transition: 0.4s; }
-nav ul a, .side-nav a { font-size: 1.2em; letter-spacing: 1.2px; color: #222; }
+nav ul a, .side-nav a {font-family: 'Raleway', sans-serif; font-size: 1.2em; letter-spacing: 1.2px; color: #222; }
 nav .nav-wrapper.white ul a{color: #222;}
 nav a.button-collapse, nav a.button-collapse i { height: 92px; line-height: 92px; }
 nav .hide-on-med-and-down a { text-align: center; }
 nav .hide-on-med-and-down .active, nav .hide-on-med-and-down a:hover { -webkit-transition: 0.4s; -moz-transition: 0.4s; -o-transition: 0.4s; -ms-transition: 0.4s; transition: 0.4s; background-color: transparent; color: #fff!important; background-color:#D62828; }
 nav li.active a{color: white}
 nav .hide-on-med-and-down .current_page_item a { border-bottom:3px solid white; }
-/*h1,h2,h3,h4,h5,span{font-family: 'Dosis', sans-serif;}*/
+h1,h2,h3,h4,h5,span{font-family: 'Raleway', sans-serif;}
 h1 {font-size: 4em; }
 h2 {font-size: 3.3em; }
 h3 {font-size: 2.7em; }
 h4 {font-size: 2.2em; }
 h5 {font-size: 1.6em; }
-p {font-size: 1.35em; font-family: 'Josefin Sans', sans-serif; letter-spacing: 1px; text-align: justify; margin: 0px; }
+p {font-size: 1.35em; font-family: 'Varela Round', sans-serif; letter-spacing: 1px; text-align: justify; margin: 0px; }
 .row { margin-left: auto; margin-right: auto; }
 .displayinitial { display: initial !important; }
 .fondorojot { background-color: rgba(64,12,13,0.8); }
@@ -82,8 +82,8 @@ p {font-size: 1.35em; font-family: 'Josefin Sans', sans-serif; letter-spacing: 1
 
 .bold {font-weight: bold;}
 /*.letra1{font-family: 'Dosis', sans-serif;}*/
-.letra2{font-family: 'Josefin Sans', sans-serif;}
-.letra3{font-family: 'Ubuntu', sans-serif;}
+.letra2{font-family: 'Varela Round', sans-serif;}
+.letra3{font-family: 'Varela Round', sans-serif;}
 .color1 {color: #222 !important;}
 .color2 {color: #003049 !important;}
 .color3 {color: #D62828 !important;}
